@@ -50,6 +50,10 @@ I build practical, data-driven and AI-powered systems focused on solving real-wo
   Data analysis project identifying customer purchasing patterns and behavioral insights using Python and Pandas.  
   🔗 https://github.com/shravan1830/Customer_Shopping_Behavior_Analysis
 
+- **Coffee Sales Analysis Dashboard**  
+  Interactive Power BI dashboard analyzing café sales performance, monthly revenue trends, product contribution, and time-of-day distribution using structured transactional data.  
+  🔗 https://github.com/shravan1830/shravan1830-Coffee_Sales_Analysis_Dashboard
+
 ---
 
 ## 🧩 Problem-Solving & Competitive Coding
