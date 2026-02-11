@@ -72,9 +72,6 @@ I build practical, data-driven and AI-powered systems focused on solving real-wo
 <a href="https://instagram.com/_sarcastic.cancer_3030" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/@shravankalzunkar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
 <a href="https://www.leetcode.com/shravankalzunkar_1830" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
